@@ -1,0 +1,21 @@
+
+*{
+    margin: 0 auto;
+    padding:0 ;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(166, 187, 219);
+    background-image: url("../img/bgpadrão.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.link{
+    font-family: 'Reem Kufi Fun', sans-serif;
+    text-decoration: none;
+    box-shadow: none;
+    color:  #000;
+}
